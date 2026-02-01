@@ -1,5 +1,5 @@
 # GLMapPy
-A simple Python runtime that makes the process of creating publication-quality statistical model diagrams easy. 
+A lightweight image editor for building block-diagram figures of regression, hierarchical models, workflows, and statistical pipelines. 
 
 Currently catered to GLM and LM block diagrams. Further goals include allowing text to be placed anywhere on the canvas and further arrow manipulation (non-LM diagrams).
 <br/>
