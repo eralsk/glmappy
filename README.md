@@ -18,6 +18,8 @@ Changes:
 - Optimization: the program now preloads canvas renders in memory. This fixes the issue where the canvas would "flash" when adding a new object or refreshing.
 - Optimization: ruler view has been temporarily removed as it interferes with grid lines when adding nodes.
 
+## Installation
+Since the .exe was created with PyInstaller, the installation process is as easy as downloading the .exe and running it. That's it. 
 ## Citation
 If you use this software in academic work, please cite:
 
