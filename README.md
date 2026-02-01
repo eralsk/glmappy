@@ -18,8 +18,7 @@ Changes:
 - Optimization: ruler view has been temporarily removed as it interferes with grid lines when adding nodes.
 
 ## Installation
-Since the .exe is over 25mb, I can't add it here. However, just run the source code and the program will appear. I recommend using PyInstaller if you want an executable for Windows. 
-*Users must have Python installed to run the application.
+Users must have Python installed to run the source code. Python is not needed for the released Windows OS executible file.
 
 ### Requirements
 
