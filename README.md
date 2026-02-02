@@ -40,8 +40,8 @@ Standard library modules (`json`, `math`, `copy`, `io`) are included with Python
 
 1. Clone this repository or download the source code:
    ```bash
-   git clone https://github.com/yourusername/projectname.git
-   cd projectname
+   git clone https://github.com/eralsk/GLMapPy.git
+   cd GLMapPy
 
 ## Citation
 If you use this software or any modification of the source code in academic work, please cite:
