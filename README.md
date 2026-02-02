@@ -43,10 +43,15 @@ Standard library modules (`json`, `math`, `copy`, `io`) are included with Python
    git clone https://github.com/yourusername/projectname.git
    cd projectname
 
-# Citation
+## Citation
 If you use this software or any modification of the source code in academic work, please cite:
 
 Skogsberg, Erik (2026). GLMapPy: A Simple Way to Create LM Diagrams. GitHub repository: https://github.com/eralsk/glmappy
 <br/>
 ## License
 This project is licensed under the MIT License and is free to use, modify, and distribute. See license and third_party_notices.txt for more details.
+
+
+## Generative AI Disclosure
+
+Some visual assets (.ico & banner) included in this repository were created with the assistance of generative AI tools.   
